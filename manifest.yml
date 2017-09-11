@@ -1,0 +1,7 @@
+---
+applications:
+ - name: demoBluemixDevOps
+   host: kinaDevOps
+   memory: 256M
+   services:
+  - "Cloudant NoSQL DB-bk"
