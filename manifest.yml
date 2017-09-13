@@ -4,4 +4,4 @@ applications:
    host: kinaDevOps
    memory: 256M
    services:
-   - "Cloudant NoSQL DB-bk"
+   - "Cloudant NoSQL DB-se"
